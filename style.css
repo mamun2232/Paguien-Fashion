@@ -2,7 +2,68 @@ body{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    
     font-family: 'Poppins', sans-serif;
-    font-family: 'Roboto Slab', serif;
-    font-family: 'Work Sans', sans-serif;
+font-family: 'Roboto Slab', serif;
+font-family: 'Work Sans', sans-serif;
+}
+.head-title{
+    margin-left: 10px;
+    color: #A4BC46;
+}
+.fashion{
+    background-color: #FFFBF0;
+    height: 715px;
+}
+.title{
+    color: #FABE4C;
+}
+.caption-section{
+    
+}
+.caption-section h1{
+    font-size: 50px;
+
+}
+.service{
+    width: 370px;
+    height: 530px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.imagess{
+    background-color: #F1F1F1;
+    border-radius: 10px;
+}
+
+.service-detals h2{
+    color: 
+    #363958;
+    margin-top: 20px;
+    ma
+}
+.service-detals p{
+    color: #363958;
+}
+span{
+    color: #FABE4C;
+    font-size: 40px;
+    font-weight: 600;
+}
+
+
+.descraption{
+    width: 490px;
+    height: 170px;
+    border-radius: 10px;
+    padding: 20px;
+    
+    
+}
+.logo-detals{
+    margin-left: 20px;
+}
+
+.about-section{
+    margin-top: 150px;
 }
